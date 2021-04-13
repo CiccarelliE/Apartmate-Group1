@@ -9,6 +9,5 @@ Features
    - Tracks everything you'd ever want!
 
 Login Instructions
-
    Username: test
    Password: test
